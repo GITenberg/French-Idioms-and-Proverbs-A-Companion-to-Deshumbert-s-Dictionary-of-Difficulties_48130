@@ -1,10 +1,16 @@
 _repo: French-Idioms-and-Proverbs-A-Companion-to-Deshumbert-s-Dictionary-of-Difficulties_48130
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48130-h/images/cover.jpg
 creator:
   author:
     agent_name: Payen-Payne, Vinchelés de
     gutenberg_agent_id: '44632'
     url: http://www.gutenberg.org/2009/agents/44632
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48130#French-Idioms-and-Proverbs-A-Companion-to-Deshumbert-s-Dictionary-of-Difficulties
 gutenberg_bookshelf: FR Langues
 gutenberg_issued: '2015-02-01'
 gutenberg_type: Text
